@@ -11,6 +11,6 @@ setup(
     entry_points={
         'console_scripts': [],
     },
-    author='cialabs'
+    author='vitality-ai'
 )
 

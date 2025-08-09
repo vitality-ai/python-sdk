@@ -1,7 +1,7 @@
 import pytest
 import requests
 from unittest.mock import patch, Mock
-from client import Ciaos, Config
+from ciaos.client import Ciaos, Config
 
 @pytest.fixture
 def mock_requests_post():
